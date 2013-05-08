@@ -1,4 +1,6 @@
-learning
-========
+# learning
 
-Repo for learning stuff
+## Repo for learning stuff
+
+* Python
+	* Bottle
